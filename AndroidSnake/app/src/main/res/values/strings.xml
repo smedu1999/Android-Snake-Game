@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SnakeGame</string>
+    <string name="title">Snake Game</string>
+    <string name="start_game">Start Game</string>
+    <string name="score">Score</string>
+    <string name="options">Options</string>
+    <string name="change_snake_color">Change Snake Color</string>
+    <string name="change_background_color">Change Background Color</string>
+    <string name="difficulty">Difficulty</string>
+    <string name="score_text">Score:</string>
+    <string name="hard">Hard</string>
+    <string name="easy">Easy</string>
+    <string name="normal">Normal</string>
+    <string name="choose_background">Choose Background</string>
+    <string name="new_game">New Game</string>
+    <string name="back">Back</string>
+    <string name="scores">Scores</string>
+    <string name="id">ID</string>
+    <string name="value">Value</string>
+    <string name="choose_snake_head">Choose Snake Head:</string>
+    <string name="choose_snake_body">Choose Snake Body:</string>
+</resources>
